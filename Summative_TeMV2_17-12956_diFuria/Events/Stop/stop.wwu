@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{63301261-1477-4D5E-A13D-55F704819A43}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="stop" ID="{63301261-1477-4D5E-A13D-55F704819A43}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Stop_Angelfish" ID="{9CFBD672-108E-4AF0-AD22-C0AF3DE2E47B}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

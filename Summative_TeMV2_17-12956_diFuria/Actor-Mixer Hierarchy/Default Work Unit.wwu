@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AA95910C-F220-4825-8C79-87E56D29A482}" SchemaVersion="94">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{AA95910C-F220-4825-8C79-87E56D29A482}" PersistMode="Standalone">
+			<ChildrenList>
+				<BlendContainer Name="Clarinet" ID="{B58066FF-B66E-4EAB-9D55-F6E53E56059E}" ShortID="238625496">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3174A098-A75A-465C-8C1E-2AB201AFB7BB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{65145B5C-674C-4A16-8024-FA97F56C0F79}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Clarinet_A3" ID="{8D0BA95C-DFDC-4832-88BD-558A25F0B4E8}" ShortID="33404209">
+							<PropertyList>
+								<Property Name="EnableMidiNoteTracking" Type="bool" Value="True"/>
+								<Property Name="MidiKeyFilterMax" Type="int32" Value="81"/>
+								<Property Name="MidiKeyFilterMin" Type="int32" Value="57"/>
+								<Property Name="MidiTrackingRootNote" Type="int32" Value="57"/>
+								<Property Name="OverrideMidiNoteTracking" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3174A098-A75A-465C-8C1E-2AB201AFB7BB}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{65145B5C-674C-4A16-8024-FA97F56C0F79}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Clarinet_A3" ID="{B4194D99-BEA2-4B65-962E-064733611628}" ShortID="591090449">
+									<Language>SFX</Language>
+									<AudioFile>Clarinet_A3.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Clarinet_A3" ID="{B4194D99-BEA2-4B65-962E-064733611628}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Clarinet_A4" ID="{417A58FF-76A3-4A56-A91A-E472FEC87F3C}" ShortID="1009297766">
+							<PropertyList>
+								<Property Name="EnableMidiNoteTracking" Type="bool" Value="True"/>
+								<Property Name="MidiKeyFilterMax" Type="int32" Value="93"/>
+								<Property Name="MidiKeyFilterMin" Type="int32" Value="69"/>
+								<Property Name="MidiTrackingRootNote" Type="int32" Value="69"/>
+								<Property Name="OverrideMidiNoteTracking" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3174A098-A75A-465C-8C1E-2AB201AFB7BB}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{65145B5C-674C-4A16-8024-FA97F56C0F79}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Clarinet_A4" ID="{C86FCA1F-1F8D-4B40-A578-AF3992B14765}" ShortID="735805359">
+									<Language>SFX</Language>
+									<AudioFile>Clarinet_A4.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Clarinet_A4" ID="{C86FCA1F-1F8D-4B40-A578-AF3992B14765}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Clarinet_C3" ID="{21AF21C1-93E9-4091-B300-904B85623A7F}" ShortID="932195317">
+							<PropertyList>
+								<Property Name="EnableMidiNoteTracking" Type="bool" Value="True"/>
+								<Property Name="MidiKeyFilterMax" Type="int32" Value="72"/>
+								<Property Name="MidiKeyFilterMin" Type="int32" Value="48"/>
+								<Property Name="MidiTrackingRootNote" Type="int32" Value="48"/>
+								<Property Name="OverrideMidiNoteTracking" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3174A098-A75A-465C-8C1E-2AB201AFB7BB}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{65145B5C-674C-4A16-8024-FA97F56C0F79}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Clarinet_C3" ID="{1789873F-7752-4F23-B0A6-CAF7AB4D5575}" ShortID="1032662417">
+									<Language>SFX</Language>
+									<AudioFile>Clarinet_C3.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Clarinet_C3" ID="{1789873F-7752-4F23-B0A6-CAF7AB4D5575}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Clarinet_C4" ID="{E34E1100-DF1A-43E7-9338-F3BCCA83175B}" ShortID="414085965">
+							<PropertyList>
+								<Property Name="EnableMidiNoteTracking" Type="bool" Value="True"/>
+								<Property Name="MidiKeyFilterMax" Type="int32" Value="84"/>
+								<Property Name="MidiKeyFilterMin" Type="int32" Value="60"/>
+								<Property Name="OverrideMidiNoteTracking" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3174A098-A75A-465C-8C1E-2AB201AFB7BB}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{65145B5C-674C-4A16-8024-FA97F56C0F79}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Clarinet_C4" ID="{FF4F2F44-A3DC-494E-A602-7DD8A04B9037}" ShortID="1004454531">
+									<Language>SFX</Language>
+									<AudioFile>Clarinet_C4.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Clarinet_C4" ID="{FF4F2F44-A3DC-494E-A602-7DD8A04B9037}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Clarinet_C5" ID="{DD7CE845-1AB0-47BE-AFEB-3D726277D653}" ShortID="713707359">
+							<PropertyList>
+								<Property Name="EnableMidiNoteTracking" Type="bool" Value="True"/>
+								<Property Name="MidiKeyFilterMax" Type="int32" Value="93"/>
+								<Property Name="MidiKeyFilterMin" Type="int32" Value="72"/>
+								<Property Name="MidiTrackingRootNote" Type="int32" Value="72"/>
+								<Property Name="OverrideMidiNoteTracking" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3174A098-A75A-465C-8C1E-2AB201AFB7BB}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{65145B5C-674C-4A16-8024-FA97F56C0F79}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Clarinet_C5" ID="{9AFA825E-F752-4186-842A-53534E5E0264}" ShortID="969711838">
+									<Language>SFX</Language>
+									<AudioFile>Clarinet_C5.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Clarinet_C5" ID="{9AFA825E-F752-4186-842A-53534E5E0264}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Clarinet_E4" ID="{F08936A9-D837-4C1E-A3F8-B998F1F06C2A}" ShortID="322006933">
+							<PropertyList>
+								<Property Name="EnableMidiNoteTracking" Type="bool" Value="True"/>
+								<Property Name="MidiKeyFilterMax" Type="int32" Value="76"/>
+								<Property Name="MidiKeyFilterMin" Type="int32" Value="64"/>
+								<Property Name="MidiTrackingRootNote" Type="int32" Value="64"/>
+								<Property Name="OverrideMidiNoteTracking" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3174A098-A75A-465C-8C1E-2AB201AFB7BB}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{65145B5C-674C-4A16-8024-FA97F56C0F79}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Clarinet_E4" ID="{1CEBB3B0-A40B-4033-8FA3-306F528C3D22}" ShortID="830211130">
+									<Language>SFX</Language>
+									<AudioFile>Clarinet_E4.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Clarinet_E4" ID="{1CEBB3B0-A40B-4033-8FA3-306F528C3D22}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Clarinet_F3" ID="{3D02B6B7-C525-44A2-826B-3287C77A692A}" ShortID="1030697869">
+							<PropertyList>
+								<Property Name="EnableMidiNoteTracking" Type="bool" Value="True"/>
+								<Property Name="MidiKeyFilterMax" Type="int32" Value="65"/>
+								<Property Name="MidiKeyFilterMin" Type="int32" Value="53"/>
+								<Property Name="MidiTrackingRootNote" Type="int32" Value="53"/>
+								<Property Name="OverrideMidiNoteTracking" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3174A098-A75A-465C-8C1E-2AB201AFB7BB}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{65145B5C-674C-4A16-8024-FA97F56C0F79}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Clarinet_F3" ID="{B2F0E539-92C4-478B-932B-8D4F6A88747F}" ShortID="179253210">
+									<Language>SFX</Language>
+									<AudioFile>Clarinet_F3.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Clarinet_F3" ID="{B2F0E539-92C4-478B-932B-8D4F6A88747F}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Clarinet_G2" ID="{38FE609E-F02A-4FFD-9ADD-27A98F946B62}" ShortID="684468895">
+							<PropertyList>
+								<Property Name="EnableMidiNoteTracking" Type="bool" Value="True"/>
+								<Property Name="MidiKeyFilterMax" Type="int32" Value="67"/>
+								<Property Name="MidiKeyFilterMin" Type="int32" Value="43"/>
+								<Property Name="MidiTrackingRootNote" Type="int32" Value="43"/>
+								<Property Name="OverrideMidiNoteTracking" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3174A098-A75A-465C-8C1E-2AB201AFB7BB}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{65145B5C-674C-4A16-8024-FA97F56C0F79}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Clarinet_G2" ID="{2C59556C-FD90-4132-80B1-083A13D572ED}" ShortID="869700616">
+									<Language>SFX</Language>
+									<AudioFile>Clarinet_G2.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Clarinet_G2" ID="{2C59556C-FD90-4132-80B1-083A13D572ED}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</BlendContainer>
+				<Sound Name="Ambience - Light Traffic" ID="{F993994C-2D95-40C7-B95D-C392F44DAE45}" ShortID="466012390">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+						<Property Name="IsStreamingEnabled" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Pitch" Type="int32">
+							<RTPCList>
+								<RTPC Name="" ID="{8564E2CE-ABFB-4552-9331-13A3F1DAAFC8}" ShortID="340120545">
+									<ReferenceList>
+										<Reference Name="ControlInput">
+											<Custom>
+												<ModulatorLfo Name="Modulator LFO (Custom)" ID="{FA912E2C-9958-4349-BD38-0DDE6EBFCFAA}" ShortID="608969799">
+													<PropertyList>
+														<Property Name="LfoFrequency" Type="Real64" Value="9"/>
+													</PropertyList>
+												</ModulatorLfo>
+											</Custom>
+										</Reference>
+									</ReferenceList>
+									<Curve Name="" ID="{78B49EFA-91A0-4321-811F-71723C8E7B08}">
+										<PropertyList>
+											<Property Name="Flags" Type="int32" Value="65537"/>
+										</PropertyList>
+										<PointList>
+											<Point>
+												<XPos>0</XPos>
+												<YPos>-4547</YPos>
+												<Flags>21</Flags>
+											</Point>
+											<Point>
+												<XPos>1</XPos>
+												<YPos>0</YPos>
+												<Flags>53</Flags>
+											</Point>
+										</PointList>
+									</Curve>
+								</RTPC>
+							</RTPCList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3174A098-A75A-465C-8C1E-2AB201AFB7BB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{65145B5C-674C-4A16-8024-FA97F56C0F79}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Ambience - Light Traffic" ID="{FD9050E1-83FA-4E84-8E63-71C283241839}" ShortID="892754286">
+							<Language>SFX</Language>
+							<AudioFile>Ambience - Light Traffic.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Ambience - Light Traffic" ID="{FD9050E1-83FA-4E84-8E63-71C283241839}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Collect Prize" ID="{5D91E226-844F-4988-90E6-9093F3766D2F}" ShortID="246418367">
+					<PropertyList>
+						<Property Name="IsStreamingEnabled" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3174A098-A75A-465C-8C1E-2AB201AFB7BB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{65145B5C-674C-4A16-8024-FA97F56C0F79}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Collect Prize" ID="{9BCB2A50-EB37-414C-8A95-735AFC6367C5}" ShortID="246598311">
+							<Language>SFX</Language>
+							<AudioFile>Collect Prize.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Collect Prize" ID="{9BCB2A50-EB37-414C-8A95-735AFC6367C5}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

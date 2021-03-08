@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>/Users/silviadifu/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Desktop/Summative_TeMV1_17-12956_diFuria/</ProjectRoot>
+		<SourceFilesRoot>/Users/silviadifu/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Desktop/Summative_TeMV1_17-12956_diFuria/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/silviadifu/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Desktop/Summative_TeMV1_17-12956_diFuria/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/silviadifu/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Desktop/Summative_TeMV1_17-12956_diFuria/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="246598311" Language="SFX">
+			<ShortName>Collect Prize.wav</ShortName>
+			<Path>SFX/Collect Prize_6296B0F9.wem</Path>
+		</File>
+		<File Id="892754286" Language="SFX">
+			<ShortName>Ambience - Light Traffic.wav</ShortName>
+			<Path>SFX/Ambience - Light Traffic_9B96ECC7.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1661994096" GUID="{4194105D-70D5-491B-8758-1A485B552FF5}" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank</ObjectPath>
+			<ShortName>Soundbank</ShortName>
+			<Path>Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="389828745" Name="Amb_Playground" ObjectPath="\Events\Default Work Unit\Amb_Playground" GUID="{5528AC7B-1B1E-4EAF-87DD-11529780B349}" DurationType="Infinite"/>
+				<Event Id="1730564739" Name="Musica" ObjectPath="\Events\Default Work Unit\Musica" GUID="{E93A9DF0-22F2-441B-93CE-A9FEF6F1376E}" DurationType="OneShot" DurationMin="36.500000" DurationMax="36.500000"/>
+				<Event Id="3925478726" Name="Play_Prize" ObjectPath="\Events\Default Work Unit\Play_Prize" GUID="{A8D570E4-670F-469E-A4B4-1E34D068475F}" DurationType="OneShot" DurationMin="1.950000" DurationMax="1.950000"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="246598311"/>
+				<File Id="892754286"/>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="179253210" Language="SFX">
+					<ShortName>Clarinet_F3.wav</ShortName>
+					<Path>SFX/Clarinet_F3_6296B0F9.wem</Path>
+				</File>
+				<File Id="591090449" Language="SFX">
+					<ShortName>Clarinet_A3.wav</ShortName>
+					<Path>SFX/Clarinet_A3_6296B0F9.wem</Path>
+				</File>
+				<File Id="723577158" Language="SFX">
+					<ShortName>Clarinet_185bpm_3-4.mid</ShortName>
+					<Path>SFX/Clarinet_185bpm_3-4_00000000.wem</Path>
+				</File>
+				<File Id="735805359" Language="SFX">
+					<ShortName>Clarinet_A4.wav</ShortName>
+					<Path>SFX/Clarinet_A4_6296B0F9.wem</Path>
+				</File>
+				<File Id="830211130" Language="SFX">
+					<ShortName>Clarinet_E4.wav</ShortName>
+					<Path>SFX/Clarinet_E4_6296B0F9.wem</Path>
+				</File>
+				<File Id="869700616" Language="SFX">
+					<ShortName>Clarinet_G2.wav</ShortName>
+					<Path>SFX/Clarinet_G2_6296B0F9.wem</Path>
+				</File>
+				<File Id="969711838" Language="SFX">
+					<ShortName>Clarinet_C5.wav</ShortName>
+					<Path>SFX/Clarinet_C5_6296B0F9.wem</Path>
+				</File>
+				<File Id="1004454531" Language="SFX">
+					<ShortName>Clarinet_C4.wav</ShortName>
+					<Path>SFX/Clarinet_C4_6296B0F9.wem</Path>
+				</File>
+				<File Id="1032662417" Language="SFX">
+					<ShortName>Clarinet_C3.wav</ShortName>
+					<Path>SFX/Clarinet_C3_6296B0F9.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

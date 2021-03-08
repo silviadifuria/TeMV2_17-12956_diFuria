@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{24AE65DB-3CB2-42EC-B2FF-4D39B96D9D88}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{24AE65DB-3CB2-42EC-B2FF-4D39B96D9D88}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Amb_Playground" ID="{5528AC7B-1B1E-4EAF-87DD-11529780B349}">
+					<ChildrenList>
+						<Action Name="" ID="{F8AE35EF-5890-4AB3-9C7D-8537F17CDC07}" ShortID="800293898">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ambience - Light Traffic" ID="{F993994C-2D95-40C7-B95D-C392F44DAE45}" WorkUnitID="{AA95910C-F220-4825-8C79-87E56D29A482}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Prize" ID="{A8D570E4-670F-469E-A4B4-1E34D068475F}">
+					<ChildrenList>
+						<Action Name="" ID="{77DC299E-CDA5-473D-8298-02EA5F15E289}" ShortID="150117357">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Collect Prize" ID="{5D91E226-844F-4988-90E6-9093F3766D2F}" WorkUnitID="{AA95910C-F220-4825-8C79-87E56D29A482}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Musica" ID="{E93A9DF0-22F2-441B-93CE-A9FEF6F1376E}">
+					<ChildrenList>
+						<Action Name="" ID="{2EBA131A-5F8A-4E32-8FF2-6366B330918D}" ShortID="786679803">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Clarinet_185bpm_3-4" ID="{0DEF5BE0-4A72-49A6-8873-51E94A454D4D}" WorkUnitID="{E5DBFCEA-B868-495C-8ED0-048AB0A1BCB7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

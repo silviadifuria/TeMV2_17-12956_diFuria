@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AFAE38C1-2343-4C9B-9459-0A88C770D02D}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Play_event" ID="{AFAE38C1-2343-4C9B-9459-0A88C770D02D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Angelfish" ID="{F4D1A308-285A-42E4-A497-EB8F2DFEC452}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

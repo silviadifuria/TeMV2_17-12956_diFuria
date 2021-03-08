@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F51D5784-41B0-4434-9FCC-0ACE808C7A66}" SchemaVersion="94">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{F51D5784-41B0-4434-9FCC-0ACE808C7A66}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Soundbank" ID="{4194105D-70D5-491B-8758-1A485B552FF5}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Musica" ID="{E93A9DF0-22F2-441B-93CE-A9FEF6F1376E}" WorkUnitID="{24AE65DB-3CB2-42EC-B2FF-4D39B96D9D88}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Prize" ID="{A8D570E4-670F-469E-A4B4-1E34D068475F}" WorkUnitID="{24AE65DB-3CB2-42EC-B2FF-4D39B96D9D88}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Default Work Unit" ID="{AA95910C-F220-4825-8C79-87E56D29A482}" WorkUnitID="{AA95910C-F220-4825-8C79-87E56D29A482}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Default Work Unit" ID="{E5DBFCEA-B868-495C-8ED0-048AB0A1BCB7}" WorkUnitID="{E5DBFCEA-B868-495C-8ED0-048AB0A1BCB7}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Amb_Playground" ID="{5528AC7B-1B1E-4EAF-87DD-11529780B349}" WorkUnitID="{24AE65DB-3CB2-42EC-B2FF-4D39B96D9D88}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

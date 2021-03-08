@@ -1,0 +1,23 @@
+Event	ID	Name			Wwise Object Path	Notes
+	389828745	Amb_Playground			\Default Work Unit\Amb_Playground	
+	1730564739	Musica			\Default Work Unit\Musica	
+	3925478726	Play_Prize			\Default Work Unit\Play_Prize	
+
+Modulator LFO	ID	Name			Wwise Object Path	Notes
+	608969799	Modulator LFO (Custom)				
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	179253210	Clarinet_F3	Y:\Desktop\Summative_TeMV1_17-12956_diFuria\.cache\Windows\SFX\Clarinet_F3_6296B0F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Clarinet\Clarinet_F3		29884
+	591090449	Clarinet_A3	Y:\Desktop\Summative_TeMV1_17-12956_diFuria\.cache\Windows\SFX\Clarinet_A3_6296B0F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Clarinet\Clarinet_A3		30173
+	723577158	Clarinet_185bpm_3-4	Y:\Desktop\Summative_TeMV1_17-12956_diFuria\.cache\Windows\SFX\Clarinet_185bpm_3-4_00000000.wem		\Interactive Music Hierarchy\Default Work Unit\Clarinet_185bpm_3-4\Clarinet_185bpm_3-4		649
+	735805359	Clarinet_A4	Y:\Desktop\Summative_TeMV1_17-12956_diFuria\.cache\Windows\SFX\Clarinet_A4_6296B0F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Clarinet\Clarinet_A4		29939
+	830211130	Clarinet_E4	Y:\Desktop\Summative_TeMV1_17-12956_diFuria\.cache\Windows\SFX\Clarinet_E4_6296B0F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Clarinet\Clarinet_E4		29165
+	869700616	Clarinet_G2	Y:\Desktop\Summative_TeMV1_17-12956_diFuria\.cache\Windows\SFX\Clarinet_G2_6296B0F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Clarinet\Clarinet_G2		28890
+	969711838	Clarinet_C5	Y:\Desktop\Summative_TeMV1_17-12956_diFuria\.cache\Windows\SFX\Clarinet_C5_6296B0F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Clarinet\Clarinet_C5		30382
+	1004454531	Clarinet_C4	Y:\Desktop\Summative_TeMV1_17-12956_diFuria\.cache\Windows\SFX\Clarinet_C4_6296B0F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Clarinet\Clarinet_C4		30067
+	1032662417	Clarinet_C3	Y:\Desktop\Summative_TeMV1_17-12956_diFuria\.cache\Windows\SFX\Clarinet_C3_6296B0F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Clarinet\Clarinet_C3		28882
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	246598311	Collect Prize	Y:\Desktop\Summative_TeMV1_17-12956_diFuria\.cache\Windows\SFX\Collect Prize_6296B0F9.wem	246598311.wem	\Actor-Mixer Hierarchy\Default Work Unit\Collect Prize	
+	892754286	Ambience - Light Traffic	Y:\Desktop\Summative_TeMV1_17-12956_diFuria\.cache\Windows\SFX\Ambience - Light Traffic_9B96ECC7.wem	892754286.wem	\Actor-Mixer Hierarchy\Default Work Unit\Ambience - Light Traffic	
+

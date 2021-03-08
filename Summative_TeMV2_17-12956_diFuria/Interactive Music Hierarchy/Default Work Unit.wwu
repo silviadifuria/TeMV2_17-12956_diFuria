@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E5DBFCEA-B868-495C-8ED0-048AB0A1BCB7}" SchemaVersion="94">
+	<InteractiveMusic>
+		<WorkUnit Name="Default Work Unit" ID="{E5DBFCEA-B868-495C-8ED0-048AB0A1BCB7}" PersistMode="Standalone">
+			<ChildrenList>
+				<MusicSegment Name="Clarinet_185bpm_3-4" ID="{0DEF5BE0-4A72-49A6-8873-51E94A454D4D}" ShortID="853615427">
+					<PropertyList>
+						<Property Name="EndPosition" Type="Real64" Value="36500"/>
+						<Property Name="Tempo" Type="Real64" Value="185"/>
+						<Property Name="TimeSignatureUpper" Type="int16" Value="3"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3174A098-A75A-465C-8C1E-2AB201AFB7BB}"/>
+						</Reference>
+						<Reference Name="MidiTarget">
+							<ObjectRef Name="Clarinet" ID="{B58066FF-B66E-4EAB-9D55-F6E53E56059E}" WorkUnitID="{AA95910C-F220-4825-8C79-87E56D29A482}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{65145B5C-674C-4A16-8024-FA97F56C0F79}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<MusicTrack Name="Clarinet_185bpm_3-4" ID="{B859A633-8A62-4682-B780-DDB0320B14DC}" ShortID="903649826">
+							<PropertyList>
+								<Property Name="IsStreamingEnabled" Type="bool">
+									<ValueList>
+										<Value>True</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{65145B5C-674C-4A16-8024-FA97F56C0F79}"/>
+								</Reference>
+							</ReferenceList>
+							<TransitionList>
+								<MusicTransition Name="Root" ID="{26C7EF1F-D299-44BB-A665-71F95B125D68}">
+									<PropertyList>
+										<Property Name="IsFolder" Type="bool" Value="True"/>
+									</PropertyList>
+									<TransitionInfo/>
+								</MusicTransition>
+							</TransitionList>
+							<SequenceList>
+								<MusicTrackSequence Name="" ID="{450A727E-7D53-4657-B5E5-55C1B991D08B}">
+									<ClipList>
+										<MusicClipMidi Name="Clarinet_185bpm_3-4" ID="{09575D88-8CE2-41CA-9A22-116BF8836117}" ShortID="723577158">
+											<PropertyList>
+												<Property Name="EndTrimOffset" Type="Real64" Value="36500"/>
+												<Property Name="MidiFileName" Type="string" Value="Clarinet_185bpm_3-4.mid"/>
+											</PropertyList>
+										</MusicClipMidi>
+									</ClipList>
+								</MusicTrackSequence>
+							</SequenceList>
+						</MusicTrack>
+					</ChildrenList>
+					<CueList>
+						<MusicCue Name="Entry Cue" ID="{0ADC674D-77B3-4890-8BA7-3291974DD8C8}">
+							<PropertyList>
+								<Property Name="TimeMs" Type="Real64" Value="397.356143079316"/>
+							</PropertyList>
+						</MusicCue>
+						<MusicCue Name="Exit Cue" ID="{14EFBA44-9C50-439A-8CF4-BAFAD459619E}">
+							<PropertyList>
+								<Property Name="CueType" Type="int16" Value="1"/>
+								<Property Name="TimeMs" Type="Real64" Value="35818.8180404355"/>
+							</PropertyList>
+						</MusicCue>
+					</CueList>
+				</MusicSegment>
+			</ChildrenList>
+		</WorkUnit>
+	</InteractiveMusic>
+</WwiseDocument>

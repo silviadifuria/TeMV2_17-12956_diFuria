@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6D3ACE64-110C-4DD0-ADA3-021305C0E3B6}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="animals" ID="{6D3ACE64-110C-4DD0-ADA3-021305C0E3B6}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Angelfish" ID="{498C260D-E49C-413E-8F79-02F0544F08F3}"/>
+				<Event Name="Ant" ID="{0149BF28-890B-4937-8FBF-3B78309A7D33}"/>
+				<Event Name="Anteater" ID="{822EBDB6-689C-4DFF-897A-E512AA47A6AE}"/>
+				<Event Name="Antelope" ID="{2F26D0B1-B9DB-4C71-B28C-C71C87198FEF}"/>
+				<Event Name="Appenzeller_Dog" ID="{E00BC83E-19F1-4E20-BC13-6FDDD478DC06}"/>
+				<Event Name="Arctic_Fox" ID="{C983A96E-25F4-478D-B0B0-35F11CDFCC0C}"/>
+				<Event Name="Arctic_Hare" ID="{ACF90A38-C2FD-4AC7-B947-160E0F9C3818}"/>
+				<Event Name="Arctic_Wolf" ID="{4AE414BD-EE9E-483E-8F14-D06DA637C937}"/>
+				<Event Name="Armadillo" ID="{026EEF3F-2250-48A8-B4F2-13CF9E36BCBC}"/>
+				<Event Name="Asian_Elephant" ID="{C1AC06C2-33C4-4A25-B3AE-20B7923B636A}"/>
+				<Event Name="Asian_Giant_Hornet" ID="{A267BE37-F638-46BA-BA2C-053C9D41EBB4}"/>
+				<Event Name="Asian_Palm_Civet" ID="{755A87A1-66CC-45EA-B4D0-CD1795D27FB1}"/>
+				<Event Name="Asiatic_Black_Bear" ID="{A6A72D0E-E277-444D-8B10-542BAB92F14A}"/>
+				<Event Name="Australian_Cattle_Dog" ID="{F13A513C-BA57-400D-B86B-4ABC325C4DF0}"/>
+				<Event Name="Australian_Kelpie_Dog" ID="{FBDA6EDE-ADB4-44C9-A3C6-49AF0E64F07A}"/>
+				<Event Name="Australian_Mist" ID="{DC4BF614-0CE8-4CA2-8E51-7D547F9FC93D}"/>
+				<Event Name="Australian_Shepherd" ID="{EA3A8917-6774-4B9E-8D40-46E7E21E9F45}"/>
+				<Event Name="Australian_Terrier" ID="{FB642FD4-A962-4F98-B485-436C90C13954}"/>
+				<Event Name="Avocet" ID="{C0897CDB-CA05-4509-8D61-18B2AEDC3E5D}"/>
+				<Event Name="Axolotl" ID="{517AC9FB-8D2F-42E9-8577-A22BF2A93841}"/>
+				<Event Name="Aye_Aye" ID="{38699362-E1A4-4E07-8A98-0BEE72A220C5}"/>
+				<Event Name="Baboon" ID="{22C90B62-1459-42B9-8276-EAAFCA71B11D}"/>
+				<Event Name="Bactrian_Camel" ID="{F49E3BE8-BF0D-405B-A964-7035C17DC695}"/>
+				<Event Name="Badger" ID="{87F7AF9D-A8AB-4242-9CCB-F57F066C1308}"/>
+				<Event Name="Balinese" ID="{2C7C3D76-1DAF-4923-ABAA-82018F4D427C}"/>
+				<Event Name="Banded_Palm_Civet" ID="{313976C8-5496-4452-9A4A-513B07AC1437}"/>
+				<Event Name="Bandicoot" ID="{2FF86802-5BDF-48C8-8669-77A60B0E7155}"/>
+				<Event Name="Barb" ID="{A3462705-B997-445A-9CE5-332CB4BE16B6}"/>
+				<Event Name="Barn_Owl" ID="{A6CC0A08-4777-462E-ACEB-9DAA53BD07BF}"/>
+				<Event Name="Barnacle" ID="{AE5354CB-A96B-4830-9A1B-42FE93393031}"/>
+				<Event Name="Barracuda" ID="{0D5B7626-2E85-473D-9B4F-8ABAE850849E}"/>
+				<Event Name="Basenji_Dog" ID="{74B69C24-7E6F-4841-A1E1-C84C7806A121}"/>
+				<Event Name="Basking_Shark" ID="{7517C527-A9AA-4B66-B1BC-7AD9F88D2592}"/>
+				<Event Name="Basset_Hound" ID="{6ABF99E4-7A0A-4885-8EA7-0CA904BD2AC7}"/>
+				<Event Name="Bat" ID="{86307568-A7DF-440E-B89F-FB20F14BBC2A}"/>
+				<Event Name="Bavarian_Mountain_Hound" ID="{8120722B-8F23-4830-B881-3BDE645E4129}"/>
+				<Event Name="Beagle" ID="{DBFDBA61-F6CE-4A13-A0D4-AB2C4E0C3592}"/>
+				<Event Name="Bear" ID="{31079983-B7C2-48C9-8163-EE346926D0E0}"/>
+				<Event Name="Bearded_Collie" ID="{0B1B13F0-AB1B-4983-A67A-E7FA8CBA86A7}"/>
+				<Event Name="Bearded_Dragon" ID="{43EC254D-FE89-4D85-ADE7-B110099BE043}"/>
+				<Event Name="Beaver" ID="{0CDD9321-E0ED-4ACD-91BC-D31E6DB8B7A1}"/>
+				<Event Name="Bedlington_Terrier" ID="{63920F1C-F1E1-43D5-8B19-D99122A067DB}"/>
+				<Event Name="Beetle" ID="{1DF175DF-55D3-4055-A1F4-1715EF274674}"/>
+				<Event Name="Bengal_Tiger" ID="{C9B81E38-13F5-4C12-955F-6712E4342BDE}"/>
+				<Event Name="Bernese_Mountain_Dog" ID="{6A8A2346-18A2-4501-8E62-55274CC3CDF6}"/>
+				<Event Name="Bichon_Frise" ID="{FA7C2FE9-9223-4B8F-8085-87A820388195}"/>
+				<Event Name="Binturong" ID="{99C4A734-A727-4F5E-B725-2BAF3D063CE1}"/>
+				<Event Name="Bird" ID="{563CA254-7F3D-49E4-9727-85E51827FBC4}"/>
+				<Event Name="Birds_Of_Paradise" ID="{EC490BA1-4BFA-4460-ADDC-1BF5B79422A6}"/>
+				<Event Name="Birman" ID="{00F9B20B-D71E-4A4E-9C16-F3D89D42C73E}"/>
+				<Event Name="Bison" ID="{C673826A-5D22-4551-BDBD-BD5DA37A25FA}"/>
+				<Event Name="Black_Bear" ID="{2D3D6A41-7087-4780-A869-8B4B0B0C06FE}"/>
+				<Event Name="Black_Rhinoceros" ID="{0B6E4896-3418-4F21-9B79-3223A97EB9A3}"/>
+				<Event Name="Black_Russian_Terrier" ID="{BF6857CD-A0F5-4D13-AD1A-4D73886DB7F7}"/>
+				<Event Name="Black_Widow_Spider" ID="{2F736E49-F3E1-4851-8FF2-D4AF32FE51A7}"/>
+				<Event Name="Bloodhound" ID="{9926117B-0429-48F4-B2D1-88388181376B}"/>
+				<Event Name="Blue_Lacy_Dog" ID="{E40CAB5C-1233-4669-8CA3-A4E2E4C48C7B}"/>
+				<Event Name="Blue_Whale" ID="{E19B9909-98AB-4568-8B78-8066F917FABF}"/>
+				<Event Name="Bluetick_Coonhound" ID="{C2B9A1B7-8A44-461D-9875-A9CFA92BA0D3}"/>
+				<Event Name="Bobcat" ID="{5733502B-5813-4AAC-A60D-BE5CDB4939C3}"/>
+				<Event Name="Bolognese_Dog" ID="{30C42D9D-4DFA-439A-8253-8EDB2B432C7B}"/>
+				<Event Name="Bombay" ID="{29CDE0BB-BDE1-4A04-998F-BE99A961505A}"/>
+				<Event Name="Bongo" ID="{E13C0496-8B27-4DBC-BB39-8026A6222DB4}"/>
+				<Event Name="Bonobo" ID="{047F6462-CFF8-483F-93B6-230392605518}"/>
+				<Event Name="Booby" ID="{E6BC05F1-8F70-45BD-909F-37AF49DD78E0}"/>
+				<WorkUnit Name="Event" ID="{9F1AACD7-1F11-42E7-BC5B-6D3ECC8198BF}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

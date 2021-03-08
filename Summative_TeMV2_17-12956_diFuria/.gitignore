@@ -1,0 +1,15 @@
+#Wwisegitignore
+
+
+*.akd
+*.wsettings
+*.prof
+*.validationcache
+
+.cache/
+.backup/
+
+
+#WwiseSoundbank 
+
+IncrementalSoundBankData.xml
